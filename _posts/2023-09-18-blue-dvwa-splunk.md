@@ -4,7 +4,6 @@ title: Blue DVWA Splunk
 date: '2023-09-18 15:39:46 +0400'
 categories: [Threat Hunting,SIEM]
 tags: [Splunk,DVWA]
-commets: true
 ---
 # Blue-DVWA-Splunk
 
