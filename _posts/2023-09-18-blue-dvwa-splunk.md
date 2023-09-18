@@ -18,7 +18,7 @@ Blue-DVWA-Splunk is a project that integrates DVWA (Damn Vulnerable Web Applicat
 
 1. Clone this repository to your local machine.
 
-    ```
+    ```bash
     git clone https://github.com/egycondor/Blue-DVWA-Splunk.git
     cd Blue-DVWA-Splunk
     ```
@@ -27,7 +27,7 @@ Blue-DVWA-Splunk is a project that integrates DVWA (Damn Vulnerable Web Applicat
 
 3. Build the Docker images.
 
-    ```
+    ```bash
     docker-compose up --build
     ```
 
@@ -37,7 +37,7 @@ Blue-DVWA-Splunk is a project that integrates DVWA (Damn Vulnerable Web Applicat
 
 1. Start the DVWA and Splunk containers.
 
-    ```
+    ```bash
     docker-compose up -d
     ```
 
