@@ -7,7 +7,6 @@ tags: [Splunk, DVWA]
 author: egycondor
 commets: true
 ---
-
 # Blue-DVWA-Splunk
 
 Blue-DVWA-Splunk is a project that integrates DVWA (Damn Vulnerable Web Application), Splunk, and Apache logs for a comprehensive testing and monitoring environment. The project includes a Docker setup for running DVWA and Splunk, and configuration files for Splunk and Apache.
