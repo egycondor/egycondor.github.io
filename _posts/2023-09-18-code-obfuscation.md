@@ -42,7 +42,9 @@ The primary purpose of this code is to execute the Windows calculator (calc.exe)
 
 Let's break down the obfuscation step-by-step:
 
+```vb
 Dim s1, s2, s3, s4, s5, x, y
+```
 Variables are declared.
 
 
