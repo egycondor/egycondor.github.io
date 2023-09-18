@@ -14,7 +14,7 @@ Let's examine a simple demonstration below. Oddly enough, the provided codes app
 
 ## Normal Code:
 
-```
+```vb
 Set objShell = CreateObject("WScript.Shell")
 objShell.Run "powershell.exe -Command & {Start-Process calc}", 0
 Set objShell = Nothing
