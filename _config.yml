@@ -194,5 +194,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-latex
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
