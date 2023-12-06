@@ -17,7 +17,7 @@ LummaC2 v4.0 begins its evasion technique by monitoring mouse movements. The mal
 
 The core of LummaC2 v4.0's evasion lies in its ability to monitor and interpret mouse movements. By analyzing the cursor's trajectory and employing trigonometric principles, the malware makes educated guesses whether it's dealing with a human or a machine.
 
-$d(P, Q) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
+$$d(P, Q) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 
 On the other hand, the dot product of two vectors $\overrightarrow{AB} \ and \ \overrightarrow{CD}$ , formed by the points ${A}$,${B}$,${C}$ and ${D}$, is calculated as
 
