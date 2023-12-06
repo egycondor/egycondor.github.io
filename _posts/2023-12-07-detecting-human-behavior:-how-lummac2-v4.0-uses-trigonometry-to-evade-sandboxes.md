@@ -1,7 +1,7 @@
 ---
 layout: post
 title: # Detecting Human Behavior: How LummaC2 v4.0 Uses Trigonometry to Evade Sandboxes
-date: '2023-12-07 6:21:10 +0400'
+date: '2023-12-07 2:10:10 +0400'
 categories: [Malware Analysis]
 tags: [Evasion Techniques,Programming,Sandboxing,Threat Intelligence]
 ---
