@@ -137,7 +137,7 @@ For Sequence 2, the increment between y-coordinates is consistent but less than 
 
 To counter this anti-sandbox technique, vendors must ensure that their emulation of human behavior is sophisticated enough to pass this trigonometric check. This means incorporating smooth, human-like cursor movements with varied but small angles. It also requires sandbox environments to simulate mouse movements that are less predictable and more nuanced, closely mimicking how a user would interact with their system.
 
-### Implications for Cybersecurity
+### Implications for CyberSecurity
 
 The use of trigonometry to detect human behavior illustrates the lengths to which malware authors will go to avoid detection. It underscores the need for continuous innovation in sandbox technology and detonation environments. As malware becomes more intelligent, so too must our methods for detecting and analyzing it.
 
