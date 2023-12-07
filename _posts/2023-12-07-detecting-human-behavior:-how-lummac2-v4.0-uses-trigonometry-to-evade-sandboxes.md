@@ -99,6 +99,39 @@ int main() {
     return 0;
 }
 ```
+To compare the provided mouse positions and understand how they might affect the detection of human user behavior, we'll look at the vectors formed between consecutive points and the angles between those vectors.
+
+Let's define the positions as follows for each sequence:
+
+### Sequence 1:
+
+```c
+Point mousePositions1[5] = {
+    {100, 100}, // P0
+    {105, 105}, // P1
+    {110, 110}, // P2
+    {115, 108}, // P3
+    {120, 105}  // P4
+};
+```
+### Sequence 2:
+
+```c
+Point mousePositions2[5] = {
+    {100, 100}, // P0'
+    {105, 104}, // P1'
+    {110, 108}, // P2'
+    {115, 112}, // P3'
+    {120, 116}  // P4'
+};
+```
+For Sequence 1, between points P0 to P2, we have a straight line, indicating a very smooth mouse movement, which is generally consistent with human behavior. However, at P3, the y-coordinate decreases and then decreases again at P4. This indicates a sharp change in direction which could be considered less likely to be human-like as it suggests an abrupt movement.
+
+![CS](/assets/6.png)
+
+For Sequence 2, the increment between y-coordinates is consistent but less than the x-coordinate increment, which would also suggest a straight-line movement but at a different angle. The consistent movement from P0' to P4' is smooth and could easily be interpreted as human behavior due to the absence of sudden directional changes.
+
+![CS](/assets/5.png)
 
 ### How Sandboxes Can Adapt
 
