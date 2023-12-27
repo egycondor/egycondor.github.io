@@ -6,6 +6,7 @@ date: '2023-12-27 8:22:17 +0400'
 categories: [Threat Hunting]
 tags: [Threat Hunting,UnPacking,Malware Detection,Threat Intelligence,Incident Response]
 ---
+
 ## njRAT: Technical Insights and Strategic Hunting Approaches
 
 ### Introduction:
@@ -71,18 +72,6 @@ As highlighted earlier, **njRAT offers a classic set of functionality for remote
 
 Its capabilities become evident through the Control and Command (C2) panel, which provides a comprehensive suite of functions for system manipulation and surveillance. Here's a detailed look at each function:
 
-|Function Name|Description|
-|---|---|
-|**Manager**|Enables the downloading and uploading of files to and from the infected system. |
-|**Run file**|Likely used to execute files previously uploaded via the Manager |
-|**Remote Desktop**|Initiates a Remote Desktop Protocol (RDP) connection to the infected computer. |
-|**Remote Cam**|Activates the camera on the infected device, if available. |
-|**Microphone**|Turns on the microphone for audio monitoring. |
-|**Get Passwords**|Extracts passwords from various desktop applications. |
-|**Keylogger**|Records and logs keystrokes, saving them to a .txt file. |
-|**Open Chat**|Opens a chat window with the infected PC |
-|**Server**|Manages the status of a bot, including removal commands. |
-|**Open Folder**|Permits remote access to view the contents of folders on the infected machine. |
 
 ### Strategies for Hunting and Mitigating njRAT:
 
