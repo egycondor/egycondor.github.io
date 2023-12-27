@@ -45,7 +45,7 @@ By strategically placing a breakpoint at `_.mp = Assembly.Load(rawAssembly);` wi
 
 ![CS](/assets/20231227192717.png)
 
-Right-click and save this array to effectively dump the deobfuscated assembly.
+Right-click and save this array to effectively dump the deobfuscated assembly
 
 ![CS](/assets/20231227193001.png)
 
@@ -100,4 +100,4 @@ Its capabilities become evident through the Control and Command (C2) panel, whic
 
 ### Conclusion:
 
-The sophisticated nature of njRAT demands constant vigilance and up-to-date cybersecurity measures. Understanding its technical intricacies and employing proactive hunting strategies are key to defending against this enduring cyber threat. As njRAT continues to evolve, staying abreast of the latest trends and protective measures remains crucial in the fight against this formidable malware.
+The sophisticated nature of njRAT demands constant vigilance and up-to-date cybersecurity measures. Understanding its technical intricacies and employing proactive hunting strategies are key to defending against this enduring cyber threat. As njRAT continues to evolve, staying abreast of the latest trends and protective measures remains crucial in the fight against this formidable malware
