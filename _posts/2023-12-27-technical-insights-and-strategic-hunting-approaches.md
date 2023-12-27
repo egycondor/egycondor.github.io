@@ -32,7 +32,7 @@ Another known distribution method was through a compromised website that tricked
 
 njRAT, built using the Microsoft® .NET framework, can be intricately analyzed using tools like dnSpy and Ollydbg, especially when it's packed 
 
-For this section, let's delve into the technical deconstruction of a recent njRAT sample,  sourced from the Any.Run platform https://app.any.run/tasks/6e3b2477-c1e8-4fd1-8128-4e32eda226d4/ . This example will demonstrate the process using dnSpy, a powerful .NET decompiler and debugger.
+For this section, let's delve into the technical deconstruction of a recent njRAT sample,  sourced from the [AnyRun](https://app.any.run/tasks/6e3b2477-c1e8-4fd1-8128-4e32eda226d4/) platform. This example will demonstrate the process using dnSpy, a powerful .NET decompiler and debugger.
 
 **DnSpy Unpacking Process:**
 
