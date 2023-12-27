@@ -3,7 +3,7 @@ layout: post
 title: # Technical Insights and Strategic Hunting Approaches
 date: '2023-12-27 8:22:17 +0400'
 categories: [Threat Hunting]
-tags: [Threat Hunting,UnPacking,Malware Detection,Threat Intelligence,Incident Response]
+tags: [UnPacking,Malware Detection,Threat Intelligence,Incident Response]
 ---
 
 ## njRAT: Technical Insights and Strategic Hunting Approaches
