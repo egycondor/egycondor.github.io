@@ -1,6 +1,5 @@
 ---
 layout: post
-math: true
 title: # Technical Insights and Strategic Hunting Approaches
 date: '2023-12-27 8:22:17 +0400'
 categories: [Threat Hunting]
