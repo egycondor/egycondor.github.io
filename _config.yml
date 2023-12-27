@@ -20,7 +20,7 @@ timezone:
 
 title: Egycondor # the main title
 
-tagline: Personal Blog When something works # it will display as the sub-title
+tagline: Personal Blog When something works 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
