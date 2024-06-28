@@ -25,3 +25,9 @@ When I'm not buried in codes or crafting challenges, you'll find me immersed in 
 If you're as passionate about cybersecurity, CTFs, or gaming as I am, I'd love to connect. Whether you're seeking advice, collaboration, or just a chat about the latest game release, drop me a line.
 
 Thanks for visiting.
+
+
+<a href="https://www.abuseipdb.com/user/82721" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/82721.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
+
