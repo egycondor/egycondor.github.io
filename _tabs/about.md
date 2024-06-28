@@ -26,6 +26,8 @@ If you're as passionate about cybersecurity, CTFs, or gaming as I am, I'd love t
 
 Thanks for visiting.
 
+![AbuseIPDB Contributor Badge](https://www.abuseipdb.com/contributor/82721.svg "AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks")
+
 <a href="https://www.abuseipdb.com/user/82721" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/82721.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+    AbuseIPDB Contributor Profile
 </a>
